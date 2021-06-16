@@ -1,0 +1,4 @@
+FROM python:3
+RUN echo "12345ADD lab1.py .
+RUN echo "6789"
+CMD ["python3", "./lab1.py"]
